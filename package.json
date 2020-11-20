@@ -2,7 +2,9 @@
   "name": "sinapsis-uikit",
   "author": "Juan Carlos Rodriguez Ample",
   "email": "jcrodriguezam@outlook.es",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -48,5 +50,16 @@
     "@storybook/react": "^6.0.26",
     "babel-loader": "^8.1.0",
     "react-is": "^16.13.1"
-  }
+  },
+  "description": "Sinapsis react ui kit",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcrodriguezam/sinapsis-uikit.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcrodriguezam/sinapsis-uikit/issues"
+  },
+  "homepage": "https://github.com/jcrodriguezam/sinapsis-uikit#readme"
 }
