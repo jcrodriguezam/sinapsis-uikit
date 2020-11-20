@@ -1,5 +1,5 @@
 {
-  "name": "uiKit",
+  "name": "sinapsis-uikit",
   "author": "Juan Carlos Rodríguez Ample",
   "email": "jcrodriguezam@outlook.es",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
