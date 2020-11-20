@@ -3,7 +3,7 @@
   "author": "Juan Carlos Rodriguez Ample",
   "email": "jcrodriguezam@outlook.es",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/jcrodriguezam/"
   },
   "version": "0.1.0",
   "private": false,
