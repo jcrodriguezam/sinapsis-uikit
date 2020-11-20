@@ -2,7 +2,6 @@
   "name": "sinapsis-uikit",
   "author": "Juan Carlos Rodriguez Ample",
   "email": "jcrodriguezam@outlook.es",
-  "repository": "git://github.com/jcrodriguezam/sinapsis-uikit.git",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "version": "0.1.0",
   "private": false,
