@@ -52,7 +52,7 @@
     "react-is": "^16.13.1"
   },
   "description": "Sinapsis react ui kit",
-  "main": "index.js",
+  "main": "src/packageComponets.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jcrodriguezam/sinapsis-uikit.git"
